@@ -1,0 +1,17 @@
+{
+  "name": "your-bmi",
+  "version": "1.0.10",
+  "description": "Bmi Calculator to calculate your bmi",
+  "main": "app.js",
+  "keywords": [
+    "modules",
+    "bmi",
+    "calculate bmi",
+    "bmi calculator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amritanshu Dev Rawat",
+  "license": "ISC"
+}
