@@ -1,5 +1,5 @@
-module.exports.calcBMI = function (weightKiloGram,heightM) { 
-  let bmi = weightKiloGram/Math.pow(heightM,2);
+module.exports.calcBMI = function (weightKG,heightM) { 
+  let bmi = weightKG/Math.pow(heightM,2);
   let calculatedBMI= bmi.toFixed(2);
-  return `Your Body mass index Is: ${calculatedBMI}`;
+  return `Your Bmi Is: ${calculatedBMI}`;
 }
