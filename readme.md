@@ -25,3 +25,7 @@ const bmi = yourBmi.calcBMI(60,1.53);
 ##Video
 Watch Tutorial On Youtube Too.
 [Youtube](https://youtu.be/jDkG0ZeUz70)
+
+
+
+## SOME BUG FIXED
